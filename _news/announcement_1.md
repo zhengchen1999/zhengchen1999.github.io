@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [CAT](https://arxiv.org/abs/2211.13654) is accepted by NeurIPS 2022 (Soptlight).
+Our paper [CAT](https://arxiv.org/abs/2211.13654) is accepted by NeurIPS 2022 (**Soptlight**).
