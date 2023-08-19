@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🐰  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: zc.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://zhengchen1999.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -55,7 +55,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 850px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -78,7 +78,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: # https://www.linkedin.cn/incareer/in/铮-陈-35801423b
 telegram_username: # your Telegram user name
 scholar_userid: zssRkBAAAAAJ
-semanticscholar_id: https://www.semanticscholar.org/author/Zheng-Chen/150068358
+semanticscholar_id: 150068358
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0009-0004-3963-7938
 medium_username: # your Medium username
