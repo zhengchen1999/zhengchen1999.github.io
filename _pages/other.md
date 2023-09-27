@@ -24,7 +24,7 @@ nav_order: 5
 
 - International Conference on Computer Vision (ICCV), 2023
 - Advances in Neural Information Processing Systems (NeurIPS), 2023
-- AAAI Conference on Artificial Intelligence (AAAI), 2023
+- AAAI Conference on Artificial Intelligence (AAAI), 2024
 - International Conference on Learning Representations (ICLR), 2024
 
 <div style="margin-bottom: 20px;"></div>
