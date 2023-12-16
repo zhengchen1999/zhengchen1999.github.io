@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- https://github.com/tholman/cursor-effects -->
+<script type="module">
+  import { bubbleCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";
+  new bubbleCursor();
+</script>
+
 <!-- about.html -->
       {% if page.profile -%}
       <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -88,4 +94,4 @@ layout: default
           {%- endif %}
         </article>
 
-</div>
+      </div>
