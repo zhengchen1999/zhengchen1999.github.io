@@ -9,6 +9,7 @@ nav_order: 5
 
 - Zhiyuan Honors Scholarship (2018, 2019, 2020, 2021)
 - Excellent Undergraduate Scholarship (2018, 2019, 2020, 2021)
+- National Scholarship for Graduate Excellence (2023)
 
 <div style="margin-bottom: 40px;"></div>
 
@@ -26,6 +27,7 @@ nav_order: 5
 - Advances in Neural Information Processing Systems (NeurIPS), 2023
 - AAAI Conference on Artificial Intelligence (AAAI), 2024
 - International Conference on Learning Representations (ICLR), 2024
+- Computer Vision and Pattern Recognition (CVPR), 2024
 
 <div style="margin-bottom: 20px;"></div>
 
