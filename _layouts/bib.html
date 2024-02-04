@@ -115,19 +115,19 @@
         {%- elsif proceedings contains entry.type -%}
           {% if entry.booktitle == "NeurIPS" -%}
             {%- capture entrytype -%}<em>In Advances in Neural Information Processing Systems</em> {%- endcapture -%}
-          {%- elsif "ICCV" -%}
+          {%- elsif entry.booktitle == "ICCV" -%}
             {%- capture entrytype -%}<em>In International Conference on Computer Vision</em> {%- endcapture -%}
-          {%- elsif "CVPR" -%}
+          {%- elsif entry.booktitle == "CVPR" -%}
             {%- capture entrytype -%}<em>In Computer Vision and Pattern Recognition</em> {%- endcapture -%}
-          {%- elsif "ECCV" -%}
+          {%- elsif entry.booktitle == "ECCV" -%}
             {%- capture entrytype -%}<em>In European Conference on Computer Vision</em> {%- endcapture -%}
-          {%- elsif "ICLR" -%}
+          {%- elsif entry.booktitle == "ICLR" -%}
             {%- capture entrytype -%}<em>In International Conference on Learning Representations</em> {%- endcapture -%}
-          {%- elsif "ICML" -%}
+          {%- elsif entry.booktitle == "ICML" -%}
             {%- capture entrytype -%}<em>In International Conference on Machine Learning</em> {%- endcapture -%}
-          {%- elsif "CVPRW" -%}
+          {%- elsif entry.booktitle == "CVPRW" -%}
             {%- capture entrytype -%}<em>In Computer Vision and Pattern Recognition Workshops</em> {%- endcapture -%}
-          {%- elsif "arXiv" -%}
+          {%- elsif entry.booktitle == "arXiv" -%}
             {%- capture entrytype -%}<em>{{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
