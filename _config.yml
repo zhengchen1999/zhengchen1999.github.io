@@ -6,7 +6,7 @@ title: Zheng Chen # the website title (if blank, full name will be used instead)
 first_name: Zheng
 middle_name: 
 last_name: Chen
-email: 463465810cz@gmail.com
+email: zhengchen.cse@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
