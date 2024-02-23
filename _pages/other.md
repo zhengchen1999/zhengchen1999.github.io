@@ -28,6 +28,10 @@ nav_order: 5
 - AAAI Conference on Artificial Intelligence (AAAI), 2024
 - International Conference on Learning Representations (ICLR), 2024
 - Computer Vision and Pattern Recognition (CVPR), 2024
+- International Conference on Machine Learning (ICML), 2024
+- European Conference on Computer Vision (ECCV), 2024
+- International Journal of Computer Vision (IJCV)
+- IEEE Transactions on Circuits System and Video Technology (TCSVT)
 
 <div style="margin-bottom: 20px;"></div>
 

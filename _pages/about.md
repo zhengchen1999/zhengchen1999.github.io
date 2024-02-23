@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year Master student at [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/). Previously, I received my B.E degree from SJTU in 2022.
+I am a first-year PhD student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by Prof. [Yulun Zhang](https://yulunzhang.com/). Previously, I received my B.E. degree from SJTU in 2022. My master's advisor is Prof. [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), before starting my PhD.
 
-My research interest is computer vision focusing on image restoration (e.g., super-resolution, deblurring). I have a close collaboration with Dr. [Yulun Zhang](https://yulunzhang.com/).
+My research interest is computer vision, focusing on image restoration (e.g., super-resolution, deblurring).
