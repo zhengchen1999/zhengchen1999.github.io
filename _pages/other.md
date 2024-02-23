@@ -30,8 +30,8 @@ nav_order: 5
 - Computer Vision and Pattern Recognition (CVPR), 2024
 - International Conference on Machine Learning (ICML), 2024
 - European Conference on Computer Vision (ECCV), 2024
-- International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Circuits System and Video Technology (TCSVT)
+- International Journal of Computer Vision (IJCV)
 
 <div style="margin-bottom: 20px;"></div>
 
