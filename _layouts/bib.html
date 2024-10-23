@@ -183,6 +183,9 @@
           {%- if entry.code %}
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
           {%- endif %}
+          {%- if entry.project %}
+            <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button">Proj</a>
+          {%- endif %}
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
