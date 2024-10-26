@@ -63,8 +63,10 @@ layout: default
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a style="color: inherit;">News</a></h2>
-            {%- include news.html limit=true %}
-          {%- endif %}
+            <div style="max-height: 200px; overflow-y: auto;"> <!-- Set max height and enable scrolling -->
+              {%- include news.html limit=false %}
+            </div>
+          {% endif %}
           <div style="margin-bottom: 20px;"></div>
 
           <!-- Latest posts -->
