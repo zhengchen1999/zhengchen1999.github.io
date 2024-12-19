@@ -39,5 +39,4 @@ nav_order: 5
 
 #### Workshop Co-Organizer
 
-- New Trends in Image Restoration and Enhancement workshop (NTIRE), CVPR 2023
-- New Trends in Image Restoration and Enhancement workshop (NTIRE), CVPR 2024
+- New Trends in Image Restoration and Enhancement workshop (NTIRE), CVPR 2023, 2024
